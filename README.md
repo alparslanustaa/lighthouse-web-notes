@@ -2,4 +2,5 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Alparslan Usta for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Alparslan Usta](https://github.com/alparslanustaa/lighthouse-web-notes)
+ for the Lighthouse Labs Web Development Bootcamp.
