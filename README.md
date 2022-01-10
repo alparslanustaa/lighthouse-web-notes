@@ -6,5 +6,5 @@ This repository contains all of the notes taken by [Alparslan Usta](https://gith
  for the Lighthouse Labs Web Development Bootcamp.
 
  ## Table of Contents
- * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+ * [Week 1](https://github.com/alparslanustaa/lighthouse-web-notes/tree/master/week_1/)
+  * [Day 1](https://github.com/alparslanustaa/lighthouse-web-notes/tree/master/week_1/day_1)
